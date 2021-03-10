@@ -1,0 +1,10 @@
+.store__list {
+  display: flex;
+}
+.store__item {
+  margin-right: 15px;
+}
+
+.store__item:last-child {
+  margin-right: 0;
+}
